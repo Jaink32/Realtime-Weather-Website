@@ -223,9 +223,9 @@
     }
   }
   .btn-primary {
-    /* background-color: var(--primary); */
-    /* color: var(--on-primary); */
-    /* height: 48px;
+    background-color: var(--primary);
+    color: var(--on-primary);
+    height: 48px;
     line-height: 48px;
     max-width: -webkit-max-content;
     max-width: -moz-max-content;
@@ -234,7 +234,7 @@
     align-items: center;
     gap: 16px;
     padding-inline: 16px;
-    border-radius: var(--radius-pill); */
+    border-radius: var(--radius-pill);
   }
   
   .btn-primary .span {
